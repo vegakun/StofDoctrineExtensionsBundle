@@ -255,6 +255,8 @@ For each of your entity manager, declare the extensions you want to enable:
             other:
                 timestampable: true
 
+If you are using mongodb, just replace orm with mongodb.
+
 or in XML:
 
 .. code-block:: xml
